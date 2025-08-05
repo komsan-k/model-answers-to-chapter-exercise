@@ -38,11 +38,5 @@ UARTs, PWM, stopwatch, real-time counters, sensor aggregation, and deployment on
 
 ---
 
-## How to Use
 
-- Each chapter’s model answers are saved as separate `README_ChapterX_Model_Answers.md` files.
-- You can browse, simulate, or deploy the code samples using FPGA development tools like **Vivado** or **Quartus Prime**.
-- These solutions are designed for educational purposes and may be customized to fit your hardware or curriculum.
-
----
 
