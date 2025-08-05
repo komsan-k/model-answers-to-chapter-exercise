@@ -1,4 +1,4 @@
-Model Answers to Chapter 2 Exercises
+# Model Answers for Chapter 2
 
 ### 1. **Dataflow Adder**
 A 4-bit binary adder using dataflow modeling:
