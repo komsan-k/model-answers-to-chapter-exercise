@@ -1,4 +1,4 @@
-# ✅ Model Answers for Chapter 7 – FPGA Architecture and Resources
+# Model Answers for Chapter 7
 
 ---
 
@@ -136,4 +136,3 @@ Can improve performance for critical modules or isolate noisy logic.
 
 ---
 
-> 📁 Save this as `README_Chapter7_Model_Answers.md` for lab use or documentation.
