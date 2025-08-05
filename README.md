@@ -1,10 +1,10 @@
-# 📘 Model Answers for Chapter Exercises 
+# Model Answers for Chapter Exercises 
 
 This repository contains **model answers** for end-of-chapter exercises from the textbook **"Verilog HDL and FPGA: A Practical Approach to Digital Design and Synthesis."** Each chapter covers essential concepts in digital logic, HDL development, and system-level design using Verilog and FPGA toolchains.
 
 ---
 
-## 📂 Chapters and Topics
+## Chapters and Topics
 
 ### ✅ Chapter 1: Introduction to Digital Design and FPGA
 Overview of digital logic principles and the role of FPGAs in modern electronics.
