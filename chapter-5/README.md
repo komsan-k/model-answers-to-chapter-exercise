@@ -1,4 +1,4 @@
-# ✅ Model Answers for Chapter 5 – Finite State Machines (FSM)
+# Model Answers for Chapter 5
 
 ---
 
@@ -185,4 +185,3 @@ endmodule
 
 ---
 
-> 📁 Save as `README_Chapter5_Model_Answers.md` for documentation or Verilog lab workbook.
