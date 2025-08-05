@@ -1,4 +1,4 @@
-# ✅ Model Answers for Chapter 9 – System Design and Integration
+# Model Answers for Chapter 9
 
 ---
 
@@ -148,4 +148,3 @@ Use a testbench to apply sequences and verify each submodule response.
 
 ---
 
-> 📁 Save this as `README_Chapter9_Model_Answers.md` for full-system Verilog design integration exercises.
