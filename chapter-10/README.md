@@ -1,4 +1,4 @@
-# ✅ Model Answers for Chapter 10 – Final Projects and Case Studies
+# Model Answers for Chapter 10
 
 ---
 
@@ -180,4 +180,3 @@ Follow implementation and bitstream generation steps in Vivado.
 
 ---
 
-> 📁 Save this file as `README_Chapter10_Model_Answers.md` for your capstone lab or final project documentation.
