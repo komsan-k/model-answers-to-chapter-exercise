@@ -197,4 +197,3 @@ endmodule
 
 ---
 
-> 📁 Save this file as `README_Chapter4_Model_Answers.md` for your Verilog Lab Book or GitHub documentation.
