@@ -1,4 +1,4 @@
-# ✅ Model Answers for Chapter 8 – FPGA Design Flow and Toolchains
+# Model Answers for Chapter 8
 
 ---
 
@@ -128,4 +128,3 @@ Use waveform viewer to confirm transitions on `y`.
 
 ---
 
-> 📁 Save this as `README_Chapter8_Model_Answers.md` for your lab documentation or FPGA workflow notes.
