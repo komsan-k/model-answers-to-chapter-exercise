@@ -1,7 +1,7 @@
 # Model Answers for Chapter 1
 ---
 
-### 1. **Combinational logic** produces outputs based solely on current inputs (e.g., adders, multiplexers), while **sequential logic** uses memory elements and depends on both current inputs and past states (e.g., flip-flops, counters).
+## 1. **Combinational logic** produces outputs based solely on current inputs (e.g., adders, multiplexers), while **sequential logic** uses memory elements and depends on both current inputs and past states (e.g., flip-flops, counters).
 ---
 ### 2. **HDLs (Hardware Description Languages)** like Verilog and VHDL describe the structure and behavior of digital circuits. They are essential for simulation, synthesis, and implementation of complex digital systems.
 ---
