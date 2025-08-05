@@ -1,4 +1,4 @@
-Model Answers to Chapter 3 Exercise
+# Model Answers for Chapter 3
 
 ---
 
