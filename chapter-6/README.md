@@ -1,4 +1,4 @@
-# ✅ Model Answers for Chapter 6 – Synthesis and Timing Optimization
+# Model Answers for Chapter 6
 
 ---
 
@@ -162,4 +162,3 @@ endmodule
 
 ---
 
-> 📁 Save as `README_Chapter6_Model_Answers.md` for synthesis and timing lab documentation.
